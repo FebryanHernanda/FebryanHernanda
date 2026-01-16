@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Febryan Hernanda Mashudi</h1>
-<h3 align="center">Software Engineer (Fullstack) — Web & System-Oriented</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 I'm a **Software Engineer with fullstack experience**, building **scalable and maintainable web applications** with a strong focus on **clean architecture, system design, and performance**.
 
-I enjoy working across the stack — from designing APIs and database schemas to crafting frontend architectures that are predictable and easy to maintain. I care about **why a system is built a certain way**, not just making it work.
+I enjoy working across the stack from designing APIs and database schemas to crafting frontend architectures that are predictable and easy to maintain. I care about **why a system is built a certain way**, not just making it work.
 
 My engineering mindset is driven by:
 - clear separation of concerns
@@ -49,7 +49,7 @@ My engineering mindset is driven by:
 - Middleware Pattern
 - Authentication & Authorization (JWT)
 - Database Integration
-- Basic System Design
+- System Design
 
 ---
 
